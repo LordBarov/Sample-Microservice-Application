@@ -1,0 +1,4 @@
+com\arnur\clients\fraud\FraudCheckResponse.class
+com\arnur\clients\notification\NotificationClient.class
+com\arnur\clients\fraud\FraudClient.class
+com\arnur\clients\notification\NotificationRequest.class

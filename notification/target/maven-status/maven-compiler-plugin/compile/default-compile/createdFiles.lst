@@ -1,0 +1,8 @@
+com\arnur\notification\NotificationApplication.class
+com\arnur\notification\Notification$NotificationBuilder.class
+com\arnur\notification\Notification.class
+com\arnur\notification\rabbitmq\NotificationConsumer.class
+com\arnur\notification\NotificationRepository.class
+com\arnur\notification\NotificationConfig.class
+com\arnur\notification\NotificationController.class
+com\arnur\notification\NotificationService.class

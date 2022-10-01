@@ -1,0 +1,7 @@
+com\arnur\customer\CustomerApplication.class
+com\arnur\customer\CustomerService.class
+com\arnur\customer\Customer.class
+com\arnur\customer\CustomerRegistrationRequest.class
+com\arnur\customer\CustomerRepository.class
+com\arnur\customer\CustomerController.class
+com\arnur\customer\Customer$CustomerBuilder.class

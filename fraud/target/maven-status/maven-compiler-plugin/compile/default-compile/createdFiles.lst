@@ -1,0 +1,6 @@
+com\arnur\fraud\FraudApplication.class
+com\arnur\fraud\FraudCheckHistory.class
+com\arnur\fraud\FraudCheckHistoryRepository.class
+com\arnur\fraud\FraudController.class
+com\arnur\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\arnur\fraud\FraudCheckHistoryService.class
